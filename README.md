@@ -1,2 +1,3 @@
-# hello-world
-My first repository!  : )
+Josephus.c solves the famous Josephus Problem using a circular linked list.
+
+
